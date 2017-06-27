@@ -1,0 +1,50 @@
+#middle_top {
+	overflow: hidden;
+}
+.middle_pic {
+	float: left;
+	/*width: 33%;*/
+	overflow: hidden;
+}
+.middle_word {
+	
+	text-align: center;
+	font-size: 20px;
+	padding: 8px;
+}
+#content {
+	width: 78%;
+	margin: 0 auto;
+	overflow: hidden;
+	background-color: rgba(219,219,255,0.2);
+
+}
+#content img {
+	width: 282px;
+	height: 204px;
+}
+#top {
+	font-size: 14px;
+	padding-top: 9px;
+	padding-left: 6px;
+	color: rgb(254, 113, 94);
+}
+#top a:link,a:hover,a:visited{
+	color: rgb(254, 113, 94);
+}
+.pla {
+	width: 28%;
+	float: left;
+	border: 1px solid rgb(254, 113, 94);
+	border-radius: 10px;
+	margin: 10px;
+}
+.pla {
+	margin-top: 20px;
+}
+#content img {
+	margin: 7px;
+}
+#middle_top {
+	padding-top: 30px;
+}

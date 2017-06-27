@@ -1,0 +1,87 @@
+/*body {
+	background-image: url(../images/bg0.jpg);
+	background-size: 100% 100%;
+}*/
+body {
+	background-image: url(../images/banner.jpg);
+	background-size: 100% 100%;
+}
+
+#content {
+	width: 97%;
+}
+#left {
+	width: 74%;
+	overflow: hidden;
+	float: left;
+}
+#right {
+	width: 25%;
+	overflow: hidden;
+	float: right;
+}
+#left_top {
+	overflow: hidden;
+}
+
+#left_middle {
+	overflow: hidden;
+}
+#left_bottom {
+	overflow: hidden;
+}
+#left_top_pic {
+	width: 40%;
+	float: left;
+}
+
+#left_middle_pic {
+	width: 40%;
+	float: left;
+}
+#left_top_word {
+	width: 60%;
+	float: right;
+}
+#left_middle_word {
+	width: 60%;
+	float: right;
+}
+#left_top {
+	margin-top: 20px;	
+}
+#left_top_title {
+	font-size: 25px;
+	padding: 7px;
+}
+#left_middle_title {
+	font-size: 25px;
+	padding: 7px;
+}
+#left_bottom {
+	margin-bottom: 20px;
+}
+.left_title {
+	font-size: 18px;
+}
+.left_word {
+	text-indent: 2em;
+	margin-top:10px;
+	color: #8B8B8B;
+}
+
+#right {
+	margin-top: 18px;
+}
+#right_title {
+	font-size: 25px;
+	padding: 7px;
+}
+#right_word{
+	text-indent: 2em;
+	margin-top: 10px;
+}
+
+#right_pic img {
+	margin-top: 10px;
+}
